@@ -4,7 +4,8 @@ export {
     PersonAdd, 
     Settings,
     Mic,
-    Headset
+    Headset,
+    AlternateEmail
 } from 'styled-icons/material';
 
 export { Hashtag } from 'styled-icons/heroicons-outline';
