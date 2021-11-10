@@ -1,5 +1,8 @@
+![Sem título](https://user-images.githubusercontent.com/54222632/141115880-88ff0f36-5258-4ece-8896-1a865596e9b1.png)
+
 <br>
 <br>
+
 # UI Clone - Discord ✨
 
 This project is a clone of the Discrod platform interface in order to put into practice the technologies used.
